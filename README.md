@@ -5,4 +5,4 @@ Entrada: Dados do usuário; Informações de login; Token e ações no front end
 Saída: Confirmação de cadastro com algumas das informações deste usuário; Resposta positiva ao login deste usuário; Respostas positivas aos testes de funcionalidades, além de exibir todas as informações anteriores em caso de funcionamento correto.
 
 
-Nos testes de Caixa Branca foi analisado o código e seus possíveis erros, além de checar se as informações presentes nas respostas do Postman estavam coerentes com os dados previamente estabelecidos.
+Nos testes de Caixa Branca foi analisado o código e seus possíveis erros (estes, que foram corrigidos), além de checar se as informações presentes nas respostas do Postman estavam coerentes com os dados previamente estabelecidos.
