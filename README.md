@@ -6,3 +6,7 @@ Saída: Confirmação de cadastro com algumas das informações deste usuário; 
 
 
 Nos testes de Caixa Branca foi analisado o código e seus possíveis erros (estes, que foram corrigidos), além de checar se as informações presentes nas respostas do Postman estavam coerentes com os dados previamente estabelecidos.
+
+
+Aluno: Yuri Samuel Soares Batista
+RA: 972411255
